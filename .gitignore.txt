@@ -1,0 +1,4 @@
+# https://www.w3schools.com/git/git_ignore.asp?remote=github
+# ignore all .dcm files
+*.dcm
+
